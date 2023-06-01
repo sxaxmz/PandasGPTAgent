@@ -28,6 +28,9 @@ View the tool UI components from [here]().
 
 #### Requirements:
 * Open AI API Key:  [Acquired Here](https://platform.openai.com/account/api-keys).
+
+      os.environ['OPENAI_API_KEY'] = 'SECRET_KEY'
+
 * Installation of the following libraries:
 
       pip install langchain
