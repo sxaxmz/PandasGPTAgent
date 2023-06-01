@@ -1,6 +1,8 @@
 # PandasGPTAgent
 Chat with your data utilizing powerful AI capabilities (OpenAI &amp; LangChain).
 
+![PandasGPTAgent Demo](media/PandasGPTAgent.gif)
+
 This tool utilizies powerful GPT model along with utilization of LangChain Agent to create a friendly UI to improve the experience and facilitate the usage of GPT models over various data files such as CSV, XLSX, or XLS.
 
 This tool acts as a prototype to demonstrate the capabilities of what can be implemented which can be integrated/embedded into exisitng systems. 
