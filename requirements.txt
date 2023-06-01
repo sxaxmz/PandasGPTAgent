@@ -1,0 +1,5 @@
+streamlit==1.22.0
+streamlit-chat==0.0.2.2
+openai==0.27.6
+streamlit-image-select==0.6.0
+langchain==0.0.181
