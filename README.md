@@ -31,12 +31,13 @@ View the tool UI components from [here]().
 
       os.environ['OPENAI_API_KEY'] = 'SECRET_KEY'
 
-* Installation of the following libraries:
+* Installation of the following libraries (requirements.txt):
 
-      pip install langchain
-      pip install openai
-      pip install streamlit
-      pip install streamlit-image-select
+      streamlit==1.22.0
+      streamlit-chat==0.0.2.2
+      openai==0.27.6
+      streamlit-image-select==0.6.0
+      langchain==0.0.181
 <br>
 
 #### Access Previous Conversations:
