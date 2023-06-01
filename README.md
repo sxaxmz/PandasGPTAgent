@@ -5,11 +5,10 @@ Chat with your data utilizing powerful AI capabilities (OpenAI &amp; LangChain).
 
 This tool utilizies powerful GPT model along with utilization of LangChain Agent to create a friendly UI to improve the experience and facilitate the usage of GPT models over various data files such as CSV, XLSX, or XLS.
 
-This tool acts as a prototype to demonstrate the capabilities of what can be implemented which can be integrated/embedded into exisitng systems. 
 
-This tool is the first UI prototype created for any Pandas Agent available for public.
+This tool is the first UI prototype created for any Pandas Agent available for public to demonstrate the capabilities of what can be implemented. The focus here is on defining and extracting data from PandasGPT Agent to be integrated or embedded into existing systems.
 
-View the tool UI components from [here]().
+View the tool UI components from [here](https://sxaxmz-pandasgptagent-app-prz2p4.streamlit.app/).
 <br>
 
 #### Abilities:
