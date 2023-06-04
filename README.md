@@ -26,9 +26,15 @@ View the tool UI components from [here](https://sxaxmz-pandasgptagent-app-prz2p4
 
 
 #### Requirements:
-* Open AI API Key:  [Acquired Here](https://platform.openai.com/account/api-keys).
+* Open AI API Key:  [Obtained Here](https://platform.openai.com/account/api-keys).
 
-      os.environ['OPENAI_API_KEY'] = 'SECRET_KEY'
+You can use the demonstration without any installation by placing your Open AI Key in the sidebar API field (Ref: app.py).
+
+![Open AI Key Placement](media/openai_key.png)
+
+
+      def setOpenAIKey(key):
+         os.environ['OPENAI_API_KEY'] = key
 
 * Installation of the following libraries (requirements.txt):
 
