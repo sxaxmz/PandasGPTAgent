@@ -8,7 +8,7 @@ This tool utilizies powerful GPT model along with utilization of LangChain Agent
 
 This tool is the first UI prototype created for any Pandas Agent available for public to demonstrate the capabilities of what can be implemented. The focus here is on defining and extracting data from PandasGPT Agent to be integrated or embedded into existing systems.
 
-View the tool UI components from [here](https://sxaxmz-pandasgptagent-app-prz2p4.streamlit.app/).
+Demonstration from [here](https://sxaxmz-pandasgptagent-app-prz2p4.streamlit.app/).
 <br>
 
 #### Abilities:
